@@ -1,0 +1,24 @@
+C:\Users\Micah Garrison\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Micah Garrison\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Micah Garrison\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Micah Garrison\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\Micah Garrison\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Micah Garrison\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Micah Garrison\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Micah Garrison\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\Micah Garrison\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.formMain.resources
+C:\Users\g-micah\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\g-micah\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\g-micah\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\g-micah\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\g-micah\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorForm.resources
+C:\Users\g-micah\source\repos\CalculatorApp\CalculatorApp\bin\Debug\MicahCalculatorApp.exe.config
+C:\Users\g-micah\source\repos\CalculatorApp\CalculatorApp\bin\Debug\MicahCalculatorApp.exe.manifest
+C:\Users\g-micah\source\repos\CalculatorApp\CalculatorApp\bin\Debug\MicahCalculatorApp.application
+C:\Users\g-micah\source\repos\CalculatorApp\CalculatorApp\bin\Debug\MicahCalculatorApp.exe
+C:\Users\g-micah\source\repos\CalculatorApp\CalculatorApp\bin\Debug\MicahCalculatorApp.pdb
+C:\Users\g-micah\source\repos\CalculatorApp\CalculatorApp\obj\Debug\MicahCalculatorApp.TrustInfo.xml
+C:\Users\g-micah\source\repos\CalculatorApp\CalculatorApp\obj\Debug\MicahCalculatorApp.exe.manifest
+C:\Users\g-micah\source\repos\CalculatorApp\CalculatorApp\obj\Debug\MicahCalculatorApp.application
+C:\Users\g-micah\source\repos\CalculatorApp\CalculatorApp\obj\Debug\MicahCalculatorApp.exe
+C:\Users\g-micah\source\repos\CalculatorApp\CalculatorApp\obj\Debug\MicahCalculatorApp.pdb
